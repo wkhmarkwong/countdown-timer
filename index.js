@@ -1,3 +1,5 @@
+//note for develop branch
+
 //Take input. Only 0 <= input <= 60 is valid. Default value is 0
 
 let seconds = Math.floor(
