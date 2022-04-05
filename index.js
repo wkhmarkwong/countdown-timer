@@ -1,4 +1,4 @@
-//note for develop branch
+//note on remote host
 
 //Take input. Only 0 <= input <= 60 is valid. Default value is 0
 
